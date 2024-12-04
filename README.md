@@ -1,2 +1,4 @@
 # ishxy---demo
-This is my FIRST REPOSITORY.
+This is my FIRST GIT REPOSITORY.
+<br>
+Author- Ishita Yadav
